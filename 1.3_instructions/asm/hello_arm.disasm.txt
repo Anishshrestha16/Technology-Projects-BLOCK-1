@@ -1,5 +1,5 @@
 
-hello_arm:     file format elf32-littlearm
+asm/hello_arm:     file format elf32-littlearm
 
 
 Disassembly of section .text:
